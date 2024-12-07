@@ -77,6 +77,7 @@ Isso iniciará um menu interativo onde você pode escolher a operação desejada
 ## Autoria
 
 - **Letícia Cristina de Matos**
+- **Amábile Silva**
 - **Trabalho apresentado como requisitos para aprovação da disciplina de Engenharia de Software**.
 - **2024**
 
